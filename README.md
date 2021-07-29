@@ -1,4 +1,4 @@
-## Hi there! I'm Junior Frontend Developer
+## Hi there! I'm Web Developer
 
 ### Languages and Tools
 #
